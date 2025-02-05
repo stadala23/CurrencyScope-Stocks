@@ -4,7 +4,7 @@ A Flask-based web application that provides real-time stock prices with currency
 
 ## Features
 
-- Real-time stock prices for top 10 companies
+- Real-time stock prices for companies
 - Multi-currency support (USD, EUR, INR, GBP)
 - Trading recommendations based on moving averages
 - Company profiles and latest news
